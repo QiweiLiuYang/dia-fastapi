@@ -1,0 +1,3 @@
+# Entornos y cache
+.venv/
+__pycache__/
